@@ -132,7 +132,7 @@ h1,h2,h3,h4,h5,h6, p {
 }
 .tasks-container-header > h3 {
   margin-top: 0.5rem;
-  color: #007bff
+  color: #00ff9d
 }
 .no-tasks-found-message {
   text-align: center;
