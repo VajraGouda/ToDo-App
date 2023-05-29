@@ -73,7 +73,7 @@ const TaskForm = ({ modal, toggle, task: taskData, defaultTask, type = "Create" 
                 </div>
                 <div className="form-group" >
                   <label htmlFor={`description-${task.id}`}>
-                    Description
+                    Give Description
                   </label>
                   <textarea
                     id={`description-${task.id}`}
